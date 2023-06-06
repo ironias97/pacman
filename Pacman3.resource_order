@@ -1,0 +1,17 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"phantom2","order":4,"path":"sprites/phantom2/phantom2.yy",},
+    {"name":"phantom_weak","order":3,"path":"sprites/phantom_weak/phantom_weak.yy",},
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
+    {"name":"obj_muro","order":2,"path":"objects/obj_muro/obj_muro.yy",},
+    {"name":"phantom316","order":6,"path":"sprites/phantom316/phantom316.yy",},
+    {"name":"obj_pacman","order":1,"path":"objects/obj_pacman/obj_pacman.yy",},
+    {"name":"Sprite12","order":2,"path":"sprites/Sprite12/Sprite12.yy",},
+    {"name":"phantom3","order":5,"path":"sprites/phantom3/phantom3.yy",},
+    {"name":"Sprite11","order":1,"path":"sprites/Sprite11/Sprite11.yy",},
+    {"name":"obj_phantom3","order":4,"path":"objects/obj_phantom3/obj_phantom3.yy",},
+    {"name":"obj_phantom310","order":5,"path":"objects/obj_phantom310/obj_phantom310.yy",},
+    {"name":"obj_phantom2","order":3,"path":"objects/obj_phantom2/obj_phantom2.yy",},
+  ],
+}
